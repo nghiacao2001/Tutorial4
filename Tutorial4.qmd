@@ -1,0 +1,6 @@
+---
+title: "Learning figures and tables"
+author: "Cao"
+format: html
+editor: visual
+---
